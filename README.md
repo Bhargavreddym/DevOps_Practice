@@ -1,2 +1,1 @@
-# DevOps_Practice First Attempt,,,,,,,,,,,,,,,   dfhfdhsf
-fghfgbcvbcv 
+# DevOps_Practice First Attempt,,,,,,,,,,,,,,,
